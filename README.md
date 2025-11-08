@@ -65,8 +65,10 @@ Built as a modular system so each part can be improved independently. Key techno
 
 ## Visuals & Artifacts
 
-Mockups and quick-wireframes are in `/assets` (or `/figma-exports`) — include your 3-frame Figma screenshots and the ideation sketch.
+<Medilink Prototype.PNG>
 
+ <MSIS.PNG>
+ 
 ---
 
 ## Contact
