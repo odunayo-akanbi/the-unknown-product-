@@ -13,6 +13,10 @@ Imagine collapsing in a city away from home: a doctor scans your MediLink QR car
 
 ## Why it matters
 
+Healthcare today is fragmented as medical information is scattered across multiple hospitals, labs, and clinics. This often leads to repeated tests, delayed treatment, missed medical history and poor patient experiences
+
+MediLink solves this by acting as a single source of truth for every individual’s health data, ensuring healthcare is Connected, Secure and Personalized. 
+
 - **Saves lives** — doctors access critical info fast in emergencies.  
 - **Reduces waste** — fewer repeated tests and faster diagnoses.  
 - **Empowers patients** — you control who sees your data.  
