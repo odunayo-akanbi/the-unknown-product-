@@ -1,7 +1,7 @@
 # the-unknown-product-
-# MediLink — The Universal Health Identity Network
+# The Universal Health Identity Network
 
-**Tagline:** *One ID. One Record. For Life.*
+**Tagline:** *Empowering seamless healthcare access through one digital health identity.*
 
 ## What is MediLink?
 
