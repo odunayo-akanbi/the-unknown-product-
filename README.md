@@ -5,7 +5,7 @@
 
 ## What is MediLink?
 
-MediLink is a simple but powerful idea: every person should have one secure, portable health identity that follows them wherever they seek care. MediLink connects hospitals, clinics, labs, pharmacies, and insurers, so verified medical history (allergies, chronic conditions, recent tests, current prescriptions) is available instantly — especially during emergencies.
+MediLink is a secure digital health identity platform that provides user with a personalized medical profile that can be accessed wherever they seek care. MediLink connects hospitals, clinics, labs, pharmacies, and insurers, so patient verified medical history (allergies, chronic conditions, recent tests, current prescriptions) is available instantly especially during emergencies.
 
 Imagine collapsing in a city away from home: a doctor scans your MediLink QR card and immediately sees the vital info needed to save your life. That’s MediLink.
 
@@ -65,7 +65,7 @@ Built as a modular system so each part can be improved independently. Key techno
 
 ## Visuals & Artifacts
 
-<Medilink Prototype.PNG>
+<MedilinkPrototype.PNG>
 
  <MSIS.PNG>
  
@@ -74,6 +74,6 @@ Built as a modular system so each part can be improved independently. Key techno
 ## Contact
 
 Prepared by: **Odunayo Akanbi**  
-Email: <your-email>  
-LinkedIn: <your-linkedin-profile>
+Email: <akanbiodunayo18@gmail.com>  
+LinkedIn: <https://www.linkedin.com/in/odunayo-akanbi/>
 
